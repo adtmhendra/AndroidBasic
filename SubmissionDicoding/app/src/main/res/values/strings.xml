@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission Dicoding</string>
+    <string name="capital_city_name">Nama Ibu Kota</string>
+    <string name="detail">Detail</string>
+    <string name="city_name">Nama Kota</string>
+    <string name="city_detail">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Hendra Pratik Aditama</string>
+    <string name="my_email">hendra.pratik09@gmail.com</string>
+    <string name="ticket">Beli tiket</string>
+    <string name="destination">Destinasi wisata lainnya</string>
+    <string name="detail_foto">Detail Foto</string>
+</resources>
